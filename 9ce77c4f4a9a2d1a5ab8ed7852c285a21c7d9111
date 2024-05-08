@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "a3f01d70_14369bd0",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 13648
+      },
+      "writtenOn": "2024-05-08T19:36:41Z",
+      "side": 1,
+      "message": "Squash into previous and name it \"Decommonize Adreno and IPA firmware\"",
+      "revId": "9ce77c4f4a9a2d1a5ab8ed7852c285a21c7d9111",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
