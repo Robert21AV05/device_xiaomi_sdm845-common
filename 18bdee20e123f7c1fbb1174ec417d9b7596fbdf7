@@ -16,6 +16,24 @@
       "message": "By the look of it (https://review.lineageos.org/q/topic:%22mi710-qti-haptics%22) this change requires kernel modifications.",
       "revId": "18bdee20e123f7c1fbb1174ec417d9b7596fbdf7",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "c073bf99_0cdb5874",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 3
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 26313
+      },
+      "writtenOn": "2024-05-26T15:17:23Z",
+      "side": 1,
+      "message": "Vibration works on non-qti_hatpics devices, but spam in logs",
+      "parentUuid": "211b19c5_90c0a576",
+      "revId": "18bdee20e123f7c1fbb1174ec417d9b7596fbdf7",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
