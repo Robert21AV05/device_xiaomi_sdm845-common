@@ -108,9 +108,12 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     android.hardware.camera.provider@2.4-impl:32 \
     android.hardware.camera.provider@2.4-service \
+    libcamera_metadata.vendor \
     libdng_sdk.vendor \
+    libexif.vendor \
     libgui_shim \
     libpiex_shim \
+    libyuv.vendor \
     vendor.qti.hardware.camera.device@1.0.vendor
 
 # Common init scripts
@@ -292,7 +295,9 @@ PRODUCT_PACKAGES += \
 
 # QTI
 PRODUCT_PACKAGES += \
-    libqti_vndfwk_detect.vendor
+    libcurl.vendor \
+    libqti_vndfwk_detect.vendor \
+    libsqlite.vendor
 
 PRODUCT_COPY_FILES += \
     $(LOCAL_PATH)/configs/qti_whitelist.xml:$(TARGET_COPY_OUT_SYSTEM_EXT)/etc/sysconfig/qti_whitelist.xml \
@@ -387,6 +392,7 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     android.media.audio.common.types-V2-cpp \
     libnl \
+    libpng.vendor \
     libwfdaac_vendor
 
 PRODUCT_BOOT_JARS += \
