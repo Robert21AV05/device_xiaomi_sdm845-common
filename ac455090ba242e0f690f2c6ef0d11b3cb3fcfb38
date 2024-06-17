@@ -16,6 +16,24 @@
       "message": "Fyi, libpng is already being built as a dependency of the health HAL",
       "revId": "ac455090ba242e0f690f2c6ef0d11b3cb3fcfb38",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "8b96554d_c01e422a",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 4
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-06-17T19:17:07Z",
+      "side": 1,
+      "message": "Not the 32bit version that WFD needs",
+      "parentUuid": "81834600_2a26fcb4",
+      "revId": "ac455090ba242e0f690f2c6ef0d11b3cb3fcfb38",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
