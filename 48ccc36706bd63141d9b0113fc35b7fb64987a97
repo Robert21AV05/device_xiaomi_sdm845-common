@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "unresolved": true,
+      "key": {
+        "uuid": "3c265fef_7a82f20e",
+        "filename": "vendor.prop",
+        "patchSetId": 10
+      },
+      "lineNbr": 78,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2024-07-08T06:07:41Z",
+      "side": 0,
+      "message": "According to https://github.com/LineageOS/android_hardware_qcom_audio/commit/34a303cb347196c1ae7dc2c6c20a4c4152dadb90 I think these should be left in place if AOSP codecs are available for these formats.",
+      "range": {
+        "startLine": 77,
+        "startChar": 0,
+        "endLine": 78,
+        "endChar": 36
+      },
+      "revId": "48ccc36706bd63141d9b0113fc35b7fb64987a97",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
